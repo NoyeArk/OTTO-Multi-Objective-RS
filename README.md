@@ -36,5 +36,5 @@ $$
 其中 $R$ 被定义为：
 
 $$
-    R_{\text {type }}=\frac{\sum_{i}^{N} \mid\{\text { predicted aids }\}_{i, \text { type }} \cap\{\text { ground truth aids }\}_{i, \text { type }} \mid}{\sum_{i}^{N} \min \left(20, \mid\{\text { ground truth aids }\}_{i, t y p e} \mid\right)}
+    R_{\text {type }}=\frac{\sum_{i}^{N} \mid\{\text { predicted aids }\}\_{i, \text { type }} \cap\{\text { ground truth aids }\}\_{i, \text { type }} \mid}{\sum_{i}^{N} \min \left(20, \mid\{\text { ground truth aids }\}_{i, t y p e} \mid\right)}
 $$
